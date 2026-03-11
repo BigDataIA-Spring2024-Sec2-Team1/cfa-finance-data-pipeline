@@ -72,9 +72,6 @@ Data Sources
     └── txt-file.png
 ```
 
-*You can generate the project tree using following tools*
-*[Project Tree Generator](https://woochanleee.github.io/project-tree-generator)*
-*[Generate from terminal](https://www.geeksforgeeks.org/tree-command-unixlinux/)*
 
 ## How to run Application locally
 
@@ -98,3 +95,4 @@ Name | Contribution %| Contributions |
 Aniket Giram    | 40% |Step 2, Step 4 |
 Sudarshan Dudhe | 30% |Step 1 |
 Rasika Kole     | 30% |Step 3 |
+
